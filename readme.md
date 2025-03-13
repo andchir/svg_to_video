@@ -6,7 +6,7 @@ Input:
 ![Input SVG](https://raw.githubusercontent.com/andchir/svg_to_video/refs/heads/main/example/anim_orbit.svg)
 
 Output:  
-
+https://github.com/user-attachments/assets/4441f80d-125f-42d0-8a02-e2601decbd10
 
 ### Usage
 5 seconds, 25 fps, #dddddd - background color:
